@@ -1,0 +1,147 @@
+champion;title;release_date;attack_at_lv1;attack_at_lv18;health_at_lv1;health_at_lv18;primary
+Aatrox;the Darkin Blade;2013-06-13;60,0;145,0;580,0;2110,0;Juggernaut
+Ahri;the Nine-Tailed Fox;2011-12-14;53,04;104,0;526,0;2090,0;Burst
+Akali;the Rogue Assassin;2010-05-11;62,4;118,5;575,0;2190,0;Assassin
+Alistar;the Minotaur;2009-02-21;61,1116;122,7;573,36;2375,4;Vanguard
+Amumu;the Sad Mummy;2009-06-26;53,38;118,0;613,12;2041,1;Vanguard
+Anivia;the Cryophoenix;2009-07-10;51,376;105,8;480,0;1874,0;Battlemage
+Annie;the Dark Child;2009-02-21;50,41;95,0;524,0;2020,0;Burst
+Ashe;the Frost Archer;2009-02-21;61,0;111,3;539,0;1984,0;Marksman
+Aurelion Sol;the Star Forger;2016-03-24;57,0;111,4;575,0;2139,0;Battlemage
+Azir;the Emperor of the Sands;2014-09-16;52,0;99,6;552,0;2116,0;Specialist
+Bard;the Wandering Caretaker;2015-03-12;52,0;103,0;575,0;2088,0;Catcher
+Blitzcrank;the Great Steam Golem;2009-09-02;61,54;121,0;582,6;2197,6;Catcher
+Brand;the Burning Vengeance;2011-04-12;57,04;108,0;519,68;2015,7;Burst
+Braum;the Heart of the Freljord;2014-05-12;55,376;109,8;540,0;2019,0;Warden
+Caitlyn;the Sheriff of Piltover;2011-01-04;62,0;111,0;481,0;2028,0;Marksman
+Camille;the Steel Shadow;2016-12-07;68,0;127,5;575,6;2020,6;Diver
+Cassiopeia;the Serpent's Embrace;2010-12-14;53,0;104,0;575,0;2105,0;Battlemage
+Cho'Gath;the Terror of the Void;2009-06-26;69,0;140,4;574,4;1934,4;Specialist
+Corki;the Daring Bombardier;2009-09-19;55,0;97,5;518,0;1997,0;Marksman
+Darius;the Hand of Noxus;2012-05-23;64,0;149,0;582,24;2282,2;Juggernaut
+Diana; Scorn of the Moon;2012-08-07;53,04;104,0;594,0;2209,0;Assassin
+Dr. Mundo;the Madman of Zaun;2009-09-02;61,27;120,8;582,52;2095,5;Juggernaut
+Draven;the Glorious Executioner;2012-06-06;60,0;121,4;574,0;2070,0;Marksman
+Ekko;the Boy Who Shattered Time;2015-05-29;58,0;109,0;585,0;2030,0;Assassin
+Elise;the Spider Queen;2012-10-26;55,0;106,0;534,0;2115,0;Diver
+Evelynn; Agony's Embrace;2009-05-01;61,0;112,0;572,0;2000,0;Assassin
+Ezreal;the Prodigal Explorer;2010-03-16;60,0;102,5;500,0;1962,0;Marksman
+Fiddlesticks;the Harbinger of Doom;2009-02-21;48,36;93,0;524,4;1884,4;Specialist
+Fiora;the Grand Duelist;2012-02-29;68,0;124,1;550,0;1995,0;Skirmisher
+Fizz;the Tidal Trickster;2011-11-15;58,04;109,0;570,0;2236,0;Assassin
+Galio;the Colossus;2010-08-10;59,0;118,5;562,0;2466,0;Warden
+Gangplank;the Saltwater Scourge;2009-08-19;64,0;115,0;540,0;1934,0;Specialist
+Garen;the Might of Demacia;2010-04-27;66,0;142,5;620,0;2048,0;Juggernaut
+Gnar;the Missing Link;2014-08-14;59,0;110,0;510,0;1615,0;Specialist
+Gragas;the Rabble Rouser;2010-02-02;64,0;123,5;600,0;2215,0;Vanguard
+Graves;the Outlaw;2011-10-19;68,0;119,0;555,0;2119,0;Specialist
+Hecarim;the Shadow of War;2012-04-18;66,0;120,4;580,0;2110,0;Diver
+Heimerdinger;the Revered Inventor;2009-10-10;55,536;101,4;488,0;1967,0;Specialist
+Illaoi;the Kraken Priestess;2015-11-24;68,0;153,0;585,6;2200,6;Juggernaut
+Irelia;the Blade Dancer;2010-11-16;63,0;131,0;580,0;2195,0;Diver
+Ivern;the Green Father;2016-10-05;50,0;101,0;585,0;2200,0;Catcher
+Janna;the Storm's Fury;2009-09-02;46,0;71,5;500,0;1690,0;Enchanter
+Jarvan IV;the Exemplar of Demacia;2011-03-01;64,0;121,8;570,0;2100,0;Diver
+Jax; Grandmaster at Arms;2009-02-21;68,0;125,4;592,8;2037,8;Skirmisher
+Jayce;the Defender of Tomorrow;2012-07-07;54,0;126,3;560,0;2090,0;Artillery
+Jhin;the Virtuoso;2016-02-01;59,0;138,9;556,0;2103,0;Marksman
+Jinx;the Loose Cannon;2013-10-10;57,0;114,8;581,0;2009,0;Marksman
+Kai'Sa; Daughter of the Void;2018-03-07;59,0;87,9;571,0;2033,0;Marksman
+Kalista;the Spear of Vengeance;2014-11-20;69,0;137,0;534,0;2047,0;Marksman
+Karma;the Enlightened One;2011-02-01;53,544;109,6;534,0;2149,0;Burst
+Karthus;the Deathsinger;2009-06-12;45,66;100,9;528,0;2007,0;Battlemage
+Kassadin;the Void Walker;2009-08-07;58,852;125,2;576,0;2106,0;Assassin
+Katarina;the Sinister Blade;2009-09-19;58,0;112,4;602,0;2200,0;Assassin
+Kayle;the Righteous;2009-02-21;50,0;92,5;600,0;2045,0;Specialist
+Kayn;the Shadow Reaper;2017-07-12;68,0;124,1;585,0;2030,0;Skirmisher
+Kennen;the Heart of the Tempest;2010-04-08;48,0;111,8;541,0;1969,0;Specialist
+Kha'Zix;the Voidreaver;2012-09-27;63,0;115,7;572,8;2017,8;Assassin
+Kindred;the Eternal Hunters;2015-10-14;65,0;103,4;540,0;1985,0;Marksman
+Kled;the Cantankerous Cavalier;2016-08-10;65,0;124,5;400,0;1420,0;Diver
+Kog'Maw;the Mouth of the Abyss;2010-06-24;61,0;113,9;534,0;2030,0;Marksman
+LeBlanc;the Deceiver;2010-11-02;54,88;114,4;528,0;2092,0;Burst
+Lee Sin;the Blind Monk;2011-04-01;70,0;124,4;575,0;2020,0;Diver
+Leona;the Radiant Dawn;2011-07-13;60,04;111,0;576,16;2055,2;Vanguard
+Lissandra;the Ice Witch;2013-04-30;53,0;98,9;550,0;2080,0;Burst
+Lucian;the Purifier;2013-08-22;64,0;110,8;571,0;2033,0;Marksman
+Lulu;the Fae Sorceress;2012-03-20;46,368;90,6;525,0;1783,0;Enchanter
+Lux;the Lady of Luminosity;2010-10-19;53,54;109,6;490,0;1935,0;Burst
+Malphite; Shard of the Monolith;2009-09-02;61,97;130,0;574,2;2104,2;Vanguard
+Malzahar;the Prophet of the Void;2010-06-01;55,0;106,0;537,0;2016,0;Battlemage
+Maokai;the Twisted Treant;2011-02-16;63,54;119,6;565,0;2180,0;Vanguard
+Master Yi;the Wuju Bladesman;2009-02-21;66,0;117,0;598,56;2162,6;Skirmisher
+Miss Fortune;the Bounty Hunter;2010-09-08;50,0;95,9;541,0;2088,0;Marksman
+Mordekaiser;the Iron Revenant;2010-02-24;61,0;129,0;575,0;2105,0;Juggernaut
+Morgana;the Fallen;2009-02-21;56,0;115,5;560,0;2090,0;Catcher
+Nami;the Tidecaller;2012-12-07;51,208;103,9;489,32;1747,3;Enchanter
+Nasus;the Curator of the Sands;2009-10-01;67,0;126,5;561,2;2091,2;Juggernaut
+Nautilus;the Titan of the Depths;2012-02-14;61,0;117,1;576,48;2038,5;Vanguard
+Neeko;the Curious Chameleon;2018-12-05;48,0;90,5;540,0;2070,0;Burst
+Nidalee;the Bestial Huntress;2009-12-17;61,0;120,5;545,0;1990,0;Specialist
+Nocturne;the Eternal Nightmare;2011-03-15;62,0;114,7;585,0;2030,0;Assassin
+Nunu;the Boy and his Yeti;2009-02-21;61,0;112,0;570,0;1964,0;Vanguard
+Olaf;the Berserker;2010-06-09;68,0;127,5;597,24;2178,2;Diver
+Orianna;the Lady of Clockwork;2011-06-01;40,368;84,6;530,0;2077,0;Burst
+Ornn;the Fire Below The Mountain;2017-08-23;69,0;128,5;590,0;2205,0;Vanguard
+Pantheon;the Unbreakable Spear;2010-02-02;64,0;120,1;580,0;2195,0;Diver
+Poppy; Keeper of the Hammer;2010-01-13;64,0;132,0;540,0;2070,0;Warden
+Pyke;the Bloodharbor Ripper;2018-05-31;62,0;96,0;600,0;2130,0;Assassin
+Qiyana; Empress of the Elements;2019-06-28;64,0;116,7;590,0;2120,0;Assassin
+Quinn; Demacia's Wings;2013-03-01;59,0;99,8;532,8;1977,8;Specialist
+Rakan;the Charmer;2017-04-19;62,0;121,5;540,0;1985,0;Catcher
+Rammus;the Armordillo;2009-07-10;55,88;115,4;564,48;2026,5;Vanguard
+Rek'Sai;the Void Burrower;2014-12-11;64,0;115,0;570,0;2015,0;Diver
+Renekton;the Butcher of the Sands;2011-01-18;69,0;132,8;575,0;2054,0;Diver
+Rengar;the Pridestalker;2012-08-21;68,0;119,0;585,0;2115,0;Assassin
+Riven;the Exile;2011-09-14;64,0;115,0;558,48;2020,5;Skirmisher
+Rumble;the Mechanized Menace;2011-04-26;61,036;115,4;589,0;2034,0;Battlemage
+Ryze;the Rune Mage;2009-02-21;55,04;106,0;570,48;2236,5;Battlemage
+Sejuani; Fury of the North;2012-01-17;66,0;134,0;560,0;2175,0;Vanguard
+Senna;the Redeemer;2019-11-10;50,0;50,0;520,0;1965,0;Marksman
+Shaco;the Demon Jester;2009-10-10;63,0;114,0;587,0;2100,0;Assassin
+Shen;the Eye of Twilight;2010-03-24;60,0;111,0;540,0;1985,0;Warden
+Shyvana;the Half-Dragon;2011-11-01;66,0;123,8;595,0;2210,0;Juggernaut
+Singed;the Mad Chemist;2009-04-18;63,0;120,4;610,0;2055,0;Specialist
+Sion;the Undead Juggernaut;2009-02-21;68,0;136,0;545,0;1786,0;Vanguard
+Sivir;the Battle Mistress;2009-02-21;61,0;112,0;532,0;2028,0;Marksman
+Skarner;the Crystal Vanguard;2011-08-09;65,0;141,5;601,28;2131,3;Diver
+Sona; Maven of the Strings;2010-09-21;49,0;100,0;482,36;1791,4;Enchanter
+Soraka;the Starchild;2009-02-21;50,04;101,0;529,04;1855,0;Enchanter
+Swain;the Noxian Grand General;2010-10-05;58,0;103,9;525,0;1970,0;Battlemage
+Sylas;the Unshackled;2019-01-25;61,0;112,0;585,0;2200,0;Burst
+Syndra;the Dark Sovereign;2012-09-13;53,872;103,2;523,0;2053,0;Burst
+Tahm Kench;the River King;2015-07-09;56,0;110,4;600,0;2300,0;Warden
+Taliyah;the Stoneweaver;2016-05-18;58,0;114,1;532,0;2062,0;Battlemage
+Talon;the Blade's Shadow;2011-08-24;68,0;120,7;588,0;2203,0;Assassin
+Taric;the Shield of Valoran;2009-08-19;55,0;114,5;575,0;2105,0;Enchanter
+Teemo;the Swift Scout;2009-02-21;54,0;105,0;528,0;2058,0;Specialist
+Thresh;the Chain Warden;2013-01-23;56,0;93,4;560,52;2141,5;Catcher
+Tristana;the Yordle Gunner;2009-02-21;61,0;117,1;559,0;2055,0;Marksman
+Trundle;the Troll King;2010-12-01;68,0;119,0;616,28;2248,3;Juggernaut
+Tryndamere;the Barbarian King;2009-05-01;69,0;131,9;625,64;2291,6;Skirmisher
+Twisted Fate;the Card Master;2009-02-21;49,954;106,1;534,0;2132,0;Burst
+Twitch;the Plague Rat;2009-05-01;59,0;111,9;582,0;2010,0;Marksman
+Udyr;the Spirit Walker;2009-12-02;66,0;151,0;593,32;2276,3;Juggernaut
+Urgot;the Dreadnought;2010-08-24;63,0;131,0;585,0;2081,0;Juggernaut
+Varus;the Arrow of Retribution;2012-05-08;61,0;113,9;500,0;2013,0;Marksman
+Vayne;the Night Hunter;2011-05-10;60,0;100,1;515,0;2028,0;Marksman
+Veigar;the Tiny Master of Evil;2009-07-24;50,71;95,3;505,0;2103,0;Burst
+Vel'Koz;the Eye of the Void;2014-02-27;54,9379;108,3;520,0;2016,0;Artillery
+Vi;the Piltover Enforcer;2012-12-19;63,0;122,5;585,0;2030,0;Diver
+Viktor;the Machine Herald;2011-12-29;53,0;104,0;530,0;2060,0;Battlemage
+Vladimir;the Crimson Reaper;2010-07-27;55,0;106,0;537,0;2169,0;Battlemage
+Volibear;the Thunder's Roar;2011-11-29;68,0;124,1;584,48;2046,5;Juggernaut
+Warwick;the Uncaged Wrath of Zaun;2009-02-21;65,0;116,0;550,0;1995,0;Diver
+Wukong;the Monkey King;2011-07-26;68,0;136,0;577,8;2022,8;Diver
+Xayah;the Rebel;2017-04-19;60,0;109,3;561,0;2023,0;Marksman
+Xerath;the Magus Ascendant;2011-10-05;54,7;105,7;526,0;2090,0;Artillery
+Xin Zhao;the Seneschal of Demacia;2010-07-13;66,0;117,0;570,0;2134,0;Diver
+Yasuo;the Unforgiven;2013-12-13;60,0;114,4;523,0;2002,0;Skirmisher
+Yorick; Shepherd of Souls;2011-06-22;62,0;147,0;580,0;2280,0;Juggernaut
+Yuumi;the Magical Cat;2019-05-14;55,0;107,7;480,0;1670,0;Enchanter
+Zac;the Secret Weapon;2013-03-29;60,0;117,8;615,0;2230,0;Vanguard
+Zed;the Master of Shadows;2012-11-13;63,0;120,8;584,0;2029,0;Assassin
+Ziggs;the Hexplosives Expert;2012-02-01;54,208;106,9;536,0;2100,0;Artillery
+Zilean;the Chronokeeper;2009-04-18;51,64;102,6;504,0;1898,0;Specialist
+Zoe;the Aspect of Twilight;2017-11-21;58,0;114,1;560,0;2124,0;Burst
+Zyra; Rise of the Thorns;2012-07-24;53,376;107,8;504,0;1847,0;Catcher
