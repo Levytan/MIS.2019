@@ -1,4 +1,4 @@
-gameid,player,position,champion,k,d,a,doubles,triples,quadras,pentas,totalgold,minionkills
+game_id,player,position,champion,k,d,a,doubles,triples,quadras,pentas,total_gold,minion_kills
 1070340,Evi,Top,Gnar,0,4,4,0,0,0,0,8407,180
 1070340,Steal,Jungle,Ekko,1,4,5,0,0,0,0,7463,35
 1070340,Ceros,Middle,Nocturne,1,5,6,0,0,0,0,8484,186
